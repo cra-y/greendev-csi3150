@@ -7,8 +7,8 @@ The implementation, assignment 2B, will be HTML + CSS + JS with localStorage.
 * Fahrenheit only.
 * Bounds and steps for each metric:
 * pH 0–14 / 0.1
-* EC 0–6 / 0.01
-* Temp 0–120 / 0.1
+* EC 0–10 / 0.01
+* Temp 32–122 / 0.1
 * RH 0–100 / 0.1
 * Bay names: A-D
 * Choosing OR instead of AND: The spec uses AND, which means one dangerous values would show a warning (i.e a value such as pH 2.0 would only be a warning under AND). OR was also used in class, so this will reflect our coursework.
